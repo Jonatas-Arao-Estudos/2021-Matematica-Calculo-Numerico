@@ -70,7 +70,7 @@ if(critlin)
 	printf('\n\nO valor final da solucao eh ')
 	x
 	printf('Qtd de Interacoes eh ')
-	k
+	k-1
 	printf('Valor final do erro eh')
 	Dr
 
